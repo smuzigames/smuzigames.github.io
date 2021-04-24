@@ -10,7 +10,7 @@ The terms used in this Privacy Policy have the same meanings as in our [Terms an
 
 For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information. The information that we request will be retained by us and used as described in this privacy policy.
 
-The Service does use third party services that may collect information used to identify you.
+Our apps does use third party services that may collect information used to identify you.
 
 Link to privacy policy of third party service providers used by our apps:
 
