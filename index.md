@@ -1,4 +1,4 @@
 # Welcome to the SmuziGames website!
 
-### [Privacy Policy](privacy_policy)
+### [Privacy Policy](privacy_policys)
 ### [Terms & Conditions](terms_and_conditions)
