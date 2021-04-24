@@ -1,4 +1,4 @@
-**Privacy Policy**
+## Privacy Policy
 
 SmuziGames built the Crazy Ostrich app as a Free app. This SERVICE is provided by SmuziGames at no cost and is intended for use as is.
 
